@@ -379,7 +379,11 @@ Transforms the value into a density-independent pixel (dp) value for non-font si
 
 ### size/object 
 
+<<<<<<< HEAD
 Transforms the value into a usefull object ( for React Native support )
+=======
+Transforms the value into a multipurpose object
+>>>>>>> 3658a39c748ad67e4b7d15074ad06d644639df1e
 
 ```js
 // Matches: prop.attributes.category === 'size'
